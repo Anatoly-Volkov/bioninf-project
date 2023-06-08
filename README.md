@@ -26,9 +26,13 @@ RR cells form more aggressive tumors than the parental cells in an orthotopic mo
 #### Conclusions
 We demonstrate that the SETMAR-NHEJ regulatory axis is essential for the survival of clinically relevant radiation RR cells, abrogation of which prevents recurrence in GBM.
 
+Связь SETMAR с H3K36me также показана и в этой статье **Metnase/SETMAR: a domesticated primate transposase that enhances DNA repair, replication, and decatenation**
+
+https://link.springer.com/article/10.1007/s10709-010-9452-1
+
 ### Экспрессия гена
 
-![](data/expression.png)
+![](data/expression.jpg)
 
 ### Домены
 
